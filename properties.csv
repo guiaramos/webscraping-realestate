@@ -1,419 +1,485 @@
 ,Address,Bathroom,Bedroom,Feet,Price,Square Foot
-0,"314-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,1,,"$569,900",602
-1,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,"$674,900",575
-2,"5386 Cliffridge Avenue, North Vancouver, BC, V7R 3V4",3,5,50 x 129,"$2,248,000",3033
-3,"1160 Ridgewood Drive, North Vancouver, BC, V7R 1J3",,0,105 x 177,"$1,799,000",
-4,"317-3220 Connaught Crescent, North Vancouver, BC, V7T 2P9",2,2,,"$1,599,800",905
-5,"1367 Briarlynn Crescent, North Vancouver, BC, V7J 1N3",2,4,60 x 150,"$1,149,000",1887
-6,"328 E 20th Street, North Vancouver, BC, V7L 3A7",3,5,38 x 45,"$1,599,000",1979
-7,"115-332 Lonsdale Avenue, North Vancouver, BC, V7M 3M5",1,1,,"$484,500",678
-8,"3182 Mountain Highway, North Vancouver, BC, V7K 2H5",2,3,,"$649,900",1364
-9,"310-733 W 14th Street, North Vancouver, BC, V7M 0C6",2,2,,"$698,000",815
-10,"506-2016 Fullerton Avenue, North Vancouver, BC, V7P 3E6",1,1,,"$370,000",641
-11,"316-3608 Deercrest Drive, North Vancouver, BC, V7G 2S8",2,2,,"$498,000",854
-12,"505-1677 Lloyd Avenue, North Vancouver, BC, V7P 0B1",1,1,,"$599,000",697
-13,"579 W 22nd Street, North Vancouver, BC, V7M 2A6",6,5,65 x 150,"$2,468,000",3349
-14,"104-177 W 5th Street, North Vancouver, BC, V7M 1J6",2,2,,"$539,000",771
-15,"130 W Windsor Road, North Vancouver, BC, V7N 2M8",,0,33 x 123,"$1,290,000",
-16,"256 W 17th Street, North Vancouver, BC, V7M 1V6",4,5,,"$1,529,000",2514
-17,"1034 Montroyal Boulevard, North Vancouver, BC, V7R 2H4",8,8,60 x 118,"$2,998,000",5057
-18,"2902 St. Andrews Avenue, North Vancouver, BC, V7N 1Z4",8,7,,"$2,798,000",5722
-19,"404-185 Victory Ship Way, North Vancouver, BC, V7L 0G2",2,2,,"$1,488,000",1133
-20,"438 E Braemar Road, North Vancouver, BC, V7N 1R1",8,7,75 x 122,"$3,688,000",5335
-21,"1793 Rufus Drive, North Vancouver, BC, V7J 3L8",1,3,30 x 129,"$878,000",1798
-22,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,"$674,900",575
-23,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,"$659,000",873
-24,"6-3508 Mt Seymour Parkway, North Vancouver, BC, V7H 1G5",3,3,,"$899,900",1247
-25,"4080 Prospect Road, North Vancouver, BC, V7N 3L5",6,5,0 x 0,"$3,498,000",5015
-26,"102-827 W 16th Street, North Vancouver, BC, V7P 1R2",1,1,,"$439,000",728
-27,"314-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,1,,"$569,900",602
-28,"1309-2008 Fullerton Avenue, North Vancouver, BC, V7P 3G7",1,2,,"$568,900",844
-29,"201-715 W 15th Street, North Vancouver, BC, V7M 1T2",1,1,,"$699,000",841
-30,"102-3690 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,"$824,800",1391
-31,"105-3625 Windcrest Drive, North Vancouver, BC, V7N 4M2",2,2,,"$519,000",842
-32,"201-1629 Garden Avenue, North Vancouver, BC, V7P 3A6",1,2,,"$598,800",803
-33,"12-3596 Salal Drive, North Vancouver, BC, V7G 0A7",3,3,,"$969,000",1614
-34,"111-809 W 16th Street, North Vancouver, BC, V7P 1R2",1,2,,"$527,900",912
-35,"401-1050 Bowron Court, North Vancouver, BC, V7H 2X7",2,2,,"$669,000",1355
-36,"349 W 17th Street, North Vancouver, BC, V7M 1V9",6,7,50 x 140,"$2,880,000",4944
-37,"106-1591 Bowser Avenue, North Vancouver, BC, V7P 2Y4",2,2,,"$948,900",1274
-38,"203-1591 Bowser Avenue, North Vancouver, BC, V7P 2Y4",1,0,,"$592,900",659
-39,"PH3-1591 Bowser Avenue, North Vancouver, BC, V7P 2Y4",2,2,,"$1,038,900",1067
-40,"1270 Premier Street, North Vancouver, BC, V7J 2H4",2,3,,"$724,900",1928
-41,"3130 Lonsdale Avenue, North Vancouver, BC, V7N 3J8",2,3,,"$885,000",1528
-42,"3842 Emerald Drive, North Vancouver, BC, V7R 3B8",6,5,70 x 150,"$2,880,000",4737
-43,"321-680 Seylynn Crescent, North Vancouver, BC, V7J 2L6",2,1,,"$818,800",1012
-44,"2-2358 Western Avenue, North Vancouver, BC, V7M 2L3",4,3,,"$1,295,000",1718
-45,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,"$674,900",575
-46,"628 E 17th Street, North Vancouver, BC, V7L 2W6",4,5,67 x 147,"$2,898,000",4375
-47,"795 Donegal Place, North Vancouver, BC, V7N 2X8",6,5,70 x 115,"$3,998,000",5275
-48,"2451 Berton Place, North Vancouver, BC, V7H 2W9",4,6,,"$1,775,000",4867
-49,"4935 Cedarcrest Avenue, North Vancouver, BC, V7R 3R7",6,6,120 x 66,"$2,998,000",4706
-50,"1305-2004 Fullerton Avenue, North Vancouver, BC, V7P 3G8",1,2,,"$518,000",761
-51,"710-175 Victory Ship Way, North Vancouver, BC, V7L 0G1",1,1,,"$848,000",650
-52,"1641 Eastern Avenue, North Vancouver, BC, V7L 0C4",2,1,,"$729,900",916
-53,"1549 Kilmer Road, North Vancouver, BC, V7K 1R5",2,4,33 x 133,"$1,199,000",2366
-54,"501 Saville Crescent, North Vancouver, BC, V7N 3A9",2,3,70 x 115,"$2,398,000",3219
-55,"1940 Panorama Drive, North Vancouver, BC, V7G 1V1",2,3,50 x 120,"$1,050,000",2225
-56,"302-725 Marine Drive, North Vancouver, BC, V7M 1H4",2,2,,"$670,990",771
-57,"2001-135 E 17th Street, North Vancouver, BC, V7L 0C4",3,3,,"$2,288,000",1268
-58,"1152 Premier Street, North Vancouver, BC, V7J 2H3",3,3,,"$739,000",1692
-59,"328 E 8th Street, North Vancouver, BC, V7L 1Z3",5,4,,"$1,815,000",2883
-60,"1028 Cloverley Street, North Vancouver, BC, V7L 1N3",6,6,50 x 140,"$2,548,000",4711
-61,"896 Montroyal Boulevard, North Vancouver, BC, V7R 3R5",4,5,33 x 120,"$1,998,000",2972
-62,"1006-158 W 13 Street, North Vancouver, BC, V7M 0A7",2,2,,"$1,079,000",1077
-63,"2446 Hyannis Drive, North Vancouver, BC, V7H 2E6",3,4,60 x 130,"$1,399,000",2176
-64,"4820 Cedarcrest Avenue, North Vancouver, BC, V7R 3R5",4,5,33 x 120,"$1,998,000",2972
-65,"309-111 E 3rd Street, North Vancouver, BC, V7L 0C6",2,2,,"$828,000",874
-66,"205-3680 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,"$849,900",1357
-67,"904-1327 E Keith Road, North Vancouver, BC, V7J 3T5",2,2,,"$825,000",1153
-68,"1210-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,"$615,000",550
-69,"1926 Purcell Way, North Vancouver, BC, V7J 3K3",3,4,,"$785,000",1924
-70,"1202-130 E 2nd Street, North Vancouver, BC, V7L 1C3",2,2,,"$979,000",1190
-71,"4507 Cedarcrest Avenue, North Vancouver, BC, V7R 3R2",6,6,0 x 159,"$3,850,000",5163
-72,"3520 Frederick Road, North Vancouver, BC, V7K 2Z8",4,5,79 x 146,"$1,378,000",1867
-73,"2-650 Roche Point Drive, North Vancouver, BC, V7H 2Z5",3,2,,"$788,000",1251
-74,"4262 Lions Avenue, North Vancouver, BC, V7R 1W1",6,5,100 x 100,"$4,588,000",6352
-75,"1504-1555 Eastern Avenue, North Vancouver, BC, V7L 3G2",2,2,,"$779,000",976
-76,"109-277 W 1st Street, North Vancouver, BC, V7M 0E8",2,2,,"$859,000",1008
-77,"442-444 E 1st Street, North Vancouver, BC, V7L 1B7",4,6,50 x 120,"$2,438,000",2004
-78,"2963 Paisley Road, North Vancouver, BC, V7R 1C6",1,2,50 x 131,"$1,399,000",930
-79,"906-160 W Keith Road, North Vancouver, BC, V7M 3M2",2,2,,"$1,119,000",1081
-80,"3698 Glenview Crescent, North Vancouver, BC, V7R 3E8",7,5,70 x 160,"$4,398,000",5368
-81,"210-3230 Connaught Crescent, North Vancouver, BC, V7K 1Y4",2,2,,"$2,449,000",1502
-82,"1406 Paisley Road, North Vancouver, BC, V7R 1C3",5,6,59 x 106,"$2,350,000",3894
-83,"306-3732 Mount Seymour Parkway, North Vancouver, BC, V7G 1C3",1,2,,"$630,000",822
-84,"736 E 3rd Street, North Vancouver, BC, V7L 1G9",4,6,50 x 137,"$1,599,000",3356
-85,"350 Tempe Crescent, North Vancouver, BC, V7N 1E6",4,5,60 x 110,"$2,138,000",3246
-86,"4364 Dollar Road, North Vancouver, BC, V7G 1B1",2,4,80 x 100,"$1,498,000",1902
-87,"330 E 8th Street, North Vancouver, BC, V7L 1Z3",5,4,50 x 145,"$1,799,800",2720
-88,"2848 Wembley Drive, North Vancouver, BC, V7J 3B6",3,5,60 x 125,"$1,299,000",2112
-89,"3182 Mountain Highway, North Vancouver, BC, V7K 2H5",2,3,,"$649,900",1364
-90,"1608-135 E 17th Street, North Vancouver, BC, V7L 0C4",1,1,,"$624,000",554
-91,"105-225 W 3rd Street, North Vancouver, BC, V7M 1E9",1,1,,"$499,500",654
-92,"204-241 St. Andrews Avenue, North Vancouver, BC, V7L 3K8",1,1,,"$399,900",638
-93,"1317-2012 Fullerton Avenue, North Vancouver, BC, V7P 3E3",1,0,,"$300,000",481
-94,"3020 Griffin Place, North Vancouver, BC, V7R 4W9",4,5,27 x 128,"$1,968,000",3319
-95,"208-341 W 3rd Street, North Vancouver, BC, V7M 1G3",1,1,,"$498,000",710
-96,"409-139 W 22nd Street, North Vancouver, BC, V7M 0B5",2,2,,"$765,000",857
-97,"30-757 Orwell Street, North Vancouver, BC, V7J 3K6",3,3,,"$999,000",1445
-98,"3715 Campbell Avenue, North Vancouver, BC, V7K 2M4",2,3,55 x 133,"$1,250,000",2216
-99,"403-151 W 2nd Street, North Vancouver, BC, V7M 3P1",2,2,,"$899,000",926
-100,"4812 Skyline Drive, North Vancouver, BC, V7R 3J3",5,6,,"$2,699,000",4399
-101,"1061 Doran Road, North Vancouver, BC, V7K 1M6",3,5,56 x 150,"$1,699,800",2511
-102,"101-143 E 19th Street, North Vancouver, BC, V7L 2Y9",1,2,,"$473,900",1065
-103,"524 Lowry Lane, North Vancouver, BC, V7G 1R3",2,2,114 x 87,"$3,495,000",2305
-104,"728 Orwell Street, North Vancouver, BC, V7J 0A5",4,4,,"$1,235,000",1679
-105,"176 W Kings Road, North Vancouver, BC, V7N 2L8",2,4,33 x 132,"$1,250,000",1772
-106,"906-2004 Fullerton Avenue, North Vancouver, BC, V7P 3G8",1,1,,"$349,000",531
-107,"414-555 W 28th Street, North Vancouver, BC, V7N 2J7",1,2,,"$479,900",918
-108,"214 E 21st Street, North Vancouver, BC, V7L 3B6",5,4,,"$1,715,000",2883
-109,"318-2665 Mountain Highway, North Vancouver, BC, V7J 0A8",2,3,,"$829,900",1107
-110,"201-1629 Garden Avenue, North Vancouver, BC, V7P 3A6",1,2,,"$598,800",803
-111,"3182 Mountain Highway, North Vancouver, BC, V7K 2H5",2,3,,"$649,900",1364
-112,"3602 Bluebonnet Road, North Vancouver, BC, V7R 4E1",8,7,73 x 125,"$4,088,000",5281
-113,"401-172 Victory Ship Way, North Vancouver, BC, V7L 0B5",1,1,,"$588,000",590
-114,"212-3220 Connaught Crescent, North Vancouver, BC, V7K 1Y4",2,2,,"$1,249,000",877
-115,"201-1201 W 16th Street, North Vancouver, BC, V7P 1R5",2,2,,"$759,000",911
-116,"2848 Wembley Drive, North Vancouver, BC, V7J 3B6",3,5,60 x 125,"$1,299,000",2112
-117,"4342 Skyline Drive, North Vancouver, BC, V7R 3G7",3,3,74 x 148,"$2,280,000",2354
-118,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,"$674,900",575
-119,"113-2738 Library Lane, North Vancouver, BC, V7J 0B3",3,2,,"$998,000",1163
-120,"205-3608 Deercrest Drive, North Vancouver, BC, V7G 2S8",2,2,,"$499,000",844
-121,"2406-1550 Fern Street, North Vancouver, BC, V7J 0A9",2,2,,"$949,900",1011
-122,"547 W 20th Street, North Vancouver, BC, V7M 1Y8",7,8,50 x 145,"$2,448,000",4490
-123,"804-175 Victory Ship Way, North Vancouver, BC, V7L 0G1",2,2,,"$1,288,000",1144
-124,"214-3220 Connaught Crescent, North Vancouver, BC, V7R 0A5",2,2,,"$1,249,000",854
-125,"9-550 Browning Place, North Vancouver, BC, V7H 3A9",3,4,,"$999,000",1781
-126,"2809 Edgemont Boulevard, North Vancouver, BC, V7R 2N3",6,5,70 x 115,"$4,950,000",5037
-127,"319 W 26th Street, North Vancouver, BC, V7N 2G7",4,5,50 x 114,"$1,599,900",2994
-128,"4587 Glenwood Avenue, North Vancouver, BC, V7R 4G6",6,6,60 x 188,"$3,898,000",4771
-129,"3687 Campbell Avenue, North Vancouver, BC, V7K 2M4",3,4,,"$1,550,000",1971
-130,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,"$799,000",949
-131,"356 W 23 Street, North Vancouver, BC, V7M 2B5",2,3,46 x 120,"$1,349,000",1023
-132,"2963 Paisley Road, North Vancouver, BC, V7R 1C6",1,2,50 x 131,"$1,399,000",930
-133,"2-2358 Western Avenue, North Vancouver, BC, V7M 2L3",4,3,,"$1,295,000",1718
-134,"21-1811 Purcell Way, North Vancouver, BC, V7J 3H4",1,2,,"$499,900",1083
-135,"4633 Mountain Highway, North Vancouver, BC, V7K 2K7",3,5,64 x 143,"$1,648,000",2699
-136,"102-555 W 28th Street, North Vancouver, BC, V7N 2J7",3,4,,"$849,900",1463
-137,"109-340 W 3rd Street, North Vancouver, BC, V7M 1G4",1,1,,"$379,000",645
-138,"5502 Molina Road, North Vancouver, BC, V7R 4P4",4,4,247 x 75,"$2,149,000",3853
-139,"4802 Strathcona Road, North Vancouver, BC, V7G 1G8",2,4,81 x 0,"$1,399,000",2104
-140,"31 Johnson Bay, North Vancouver, BC",2,5,100 x 155,"$735,000",1000
-141,"303-139 W 22nd Street, North Vancouver, BC, V7M 0B5",1,1,,"$569,000",638
-142,"2326 Kirkstone Road, North Vancouver, BC, V7J 3M3",3,4,69 x 133,"$1,689,000",2946
-143,"1076 Doran Road, North Vancouver, BC, V7K 1M5",6,6,56 x 127,"$2,658,000",4804
-144,"1530 Mcnair Drive, North Vancouver, BC, V7K 1X6",2,3,,"$898,800",1690
-145,"229-231 W 15th Street, North Vancouver, BC, V7M 1S3",6,10,49 x 139,"$2,898,000",4275
-146,"803 Roche Point Drive, North Vancouver, BC, V7H 2W3",3,3,,"$1,079,000",1848
-147,"319-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,1,,"$548,000",618
-148,"29-720 E 3rd Street, North Vancouver, BC, V7L 1G9",4,4,,"$1,414,550",1785
-149,"30-720 E 3rd Street, North Vancouver, BC, V7L 1G9",4,4,,"$1,355,000",1785
-150,"17-720 E 3rd Street, North Vancouver, BC, V7L 1G9",4,4,,"$1,424,000",1785
-151,"31-720 E 3rd Street, North Vancouver, BC, V7L 1G9",4,4,,"$1,399,000",1785
-152,"301-223 E Keith Road, North Vancouver, BC, V7L 1V4",2,3,,"$1,129,000",1773
-153,"746 Westview Drive, North Vancouver, BC, V7N 3X9",2,2,,"$519,000",1038
-154,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,"$799,000",949
-155,"524 Lowry Lane, North Vancouver, BC, V7G 1R3",2,2,114 x 87,"$3,495,000",2305
-156,"313-315 W Keith Road, North Vancouver, BC, V7M 1L9",4,8,50 x 140,"$2,448,000",3887
-157,"1707 Medwin Place, North Vancouver, BC, V7H 2C1",3,3,60 x 122,"$1,399,900",2064
-158,"202-118 W 22nd Street, North Vancouver, BC, V7M 1Z9",1,1,,"$535,000",802
-159,"330 Sasamat Lane, North Vancouver, BC, V7G 2S4",3,4,,"$3,199,000",2584
-160,"38-900 W 17th Street, North Vancouver, BC, V7P 3K5",2,3,,"$899,000",1313
-161,"4100 St. Georges Avenue, North Vancouver, BC, V7N 1W8",4,5,82 x 132,"$3,498,000",3791
-162,"3120 Lonsdale Avenue, North Vancouver, BC, V7N 3G8",2,2,,"$700,000",1119
-163,"508-1679 Lloyd Avenue, North Vancouver, BC, V7P 0A9",2,2,,"$788,000",913
-164,"1605 Arborlynn Drive, North Vancouver, BC, V7J 2V7",2,4,117 x 110,"$1,149,000",1825
-165,"205-3680 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,"$849,900",1357
-166,"2404-125 E 14th Street, North Vancouver, BC, V7L 0E6",2,3,,"$2,999,900",1813
-167,"1703-112 E 13th Street, North Vancouver, BC, V7L 0E4",2,2,,"$3,250,900",1620
-168,"205-310 W 3rd Street, North Vancouver, BC, V7M 1G4",1,2,,"$569,500",805
-169,"836 Hendecourt Road, North Vancouver, BC, V7K 2Y2",3,4,,"$988,000",2180
-170,"3096 Fromme Road, North Vancouver, BC, V7K 2C9",4,4,70 x 130,"$1,798,000",3231
-171,"61-1930 Cedar Village Crescent, North Vancouver, BC, V7J 3M5",2,4,,"$799,000",1679
-172,"215 W Keith Road, North Vancouver, BC, V7M 1L7",2,4,50 x 119,"$2,088,000",1976
-173,"209-1633 Tatlow Avenue, North Vancouver, BC, V7P 1V3",2,2,,"$799,000",971
-174,"4717 Glenwood Avenue, North Vancouver, BC, V7R 4G6",3,3,,"$1,228,000",2081
-175,"351 W 21st Street, North Vancouver, BC, V7M 1Z6",5,5,33 x 139,"$1,988,000",3396
-176,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,"$799,000",949
-177,"524 Lowry Lane, North Vancouver, BC, V7G 1R3",2,2,114 x 87,"$3,495,000",2305
-178,"607-2024 Fullerton Avenue, North Vancouver, BC, V7P 3G4",1,1,,"$375,000",752
-179,"304 Monteray Avenue, North Vancouver, BC, V7N 3E6",3,4,88 x 108,"$1,499,000",2577
-180,"124 W Windsor Road, North Vancouver, BC, V7N 2M8",6,5,33 x 123,"$2,290,000",2792
-181,"976 Marine Drive, North Vancouver, BC, V0N 1V1",4,4,119 x 1120,"$4,488,000",5340
-182,"503-133 E Esplanade, North Vancouver, BC, V7L 1A1",1,1,,"$889,000",660
-183,"305-2135 Heritage Park Lane, North Vancouver, BC, V7H 0B6",3,3,,"$999,900",1410
-184,"115-2012 Fullerton Avenue, North Vancouver, BC, V7P 3E3",2,3,,"$590,000",1035
-185,"5-245 E 5th Street, North Vancouver, BC, V7L 1L8",3,3,,"$1,050,000",1455
-186,"212 W 6th Street, North Vancouver, BC, V7M 1K6",5,4,65 x 120,"$1,998,000",3562
-187,"4477 Ruskin Place, North Vancouver, BC, V7R 3P7",6,5,71 x 120,"$3,388,000",4896
-188,"297 Monteray Avenue, North Vancouver, BC, V7N 3E7",6,6,70 x 132,"$2,998,000",4684
-189,"665 Beachview Drive, North Vancouver, BC, V7G 1P8",2,3,78 x 137,"$2,588,000",2060
-190,"904-1327 E Keith Road, North Vancouver, BC, V7J 3T5",2,2,,"$825,000",1153
-191,"987 Beaumont Drive, North Vancouver, BC, V7R 1P7",7,6,70 x 115,"$4,188,000",5382
-192,"2275 Alden Lane, North Vancouver, BC, V7P 2J7",3,3,51 x 170,"$1,595,000",2373
-193,"401-2004 Fullerton Avenue, North Vancouver, BC, V7P 3G8",1,1,,"$359,000",594
-194,"382 E 4th Street, North Vancouver, BC, V7L 1J2",2,3,,"$1,375,000",1804
-195,"1075 Belvedere Drive, North Vancouver, BC, V7R 2C6",7,7,69 x 121,"$3,495,000",5500
-196,"307-135 E 17th Street, North Vancouver, BC, V7L 0C4",2,2,,"$925,000",1003
-197,"2-2358 Western Avenue, North Vancouver, BC, V7M 2L3",4,3,,"$1,295,000",1718
-198,"205-3680 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,"$849,900",1357
-199,"314-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,1,,"$569,900",602
-200,"105-1621 Hamilton Avenue, North Vancouver, BC, V7P 0B6",1,1,,"$628,000",705
-201,"4355 Starlight Way, North Vancouver, BC, V7N 3N8",6,6,60 x 119,"$3,498,998",4656
-202,"4415 Capilano Road, North Vancouver, BC, V7R 4J8",1,1,68 x 125,"$1,348,000",1003
-203,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,"$659,000",873
-204,"201-157 E 21st Street, North Vancouver, BC, V7L 3B5",1,2,,"$549,900",929
-205,"414-121 W 29th Street, North Vancouver, BC, V7N 4L6",2,2,,"$555,900",1086
-206,"28 Johnson Bay, North Vancouver, BC",2,4,100 x 189,"$728,000",1102
-207,"107-2020 Cedar Village Crescent, North Vancouver, BC, V7J 3P5",2,2,,"$519,000",1106
-208,"303-141 W 13th Street, North Vancouver, BC, V7M 1N5",1,2,,"$629,900",1119
-209,"36-3750 Edgemont Boulevard, North Vancouver, BC, V7R 2P8",4,3,,"$1,899,000",3229
-210,"2032 Westview Drive, North Vancouver, BC, V7M 3B2",2,2,,"$1,299,000",1260
-211,"220-2060 Curling Road, North Vancouver, BC, V7P 1X4",2,2,,"$985,000",1176
-212,"14 Best Point, North Vancouver, BC",,0,66 x 400,"$239,000",
-213,"1603-110 W 4th Street, North Vancouver, BC, V7M 3H3",1,1,,"$475,000",604
-214,"120-2060 Curling Road, North Vancouver, BC, V7P 1X4",2,3,,"$939,000",1110
-215,"212-4001 Mt Seymour Parkway, North Vancouver, BC, V7G 1Z3",2,3,,"$969,000",1959
-216,"601-124 W 1st Street, North Vancouver, BC, V7M 1A9",1,1,,"$529,000",600
-217,"2260 Capilano Road, North Vancouver, BC, V7P 3B9",2,3,,"$1,099,000",1332
-218,"506-1500 Ostler Court, North Vancouver, BC, V7G 2S2",1,1,,"$548,000",819
-219,"614-680 Seylynn Crescent, North Vancouver, BC, V7J 2L6",2,2,,"$788,000",1100
-220,"31-720 E 3rd Street, North Vancouver, BC, V7L 1G9",4,4,,"$1,399,000",1785
-221,"904-1327 E Keith Road, North Vancouver, BC, V7J 3T5",2,2,,"$825,000",1153
-222,"105-3625 Windcrest Drive, North Vancouver, BC, V7N 4M2",2,2,,"$544,000",842
-223,"210-1155 Ross Road, North Vancouver, BC, V7K 1C6",1,2,,"$547,800",907
-224,"720 Westview Crescent, North Vancouver, BC, V7N 3X8",2,2,,"$499,000",1038
-225,"5429 Indian River Drive, North Vancouver, BC, V7G 2T7",2,3,,"$2,850,000",1536
-226,"1210-1327 E Keith Road, North Vancouver, BC, V7J 3T5",1,1,,"$459,900",806
-227,"291 Monteray Avenue, North Vancouver, BC, V7N 3E7",6,4,,"$2,798,900",4792
-228,"1977 Caledonia Avenue, North Vancouver, BC, V7G 1T7",2,4,47 x 136,"$1,179,000",1562
-229,"201-1283 Parkgate Avenue, North Vancouver, BC, V7H 3A3",2,2,,"$739,000",1194
-230,"603-130 E 2nd Street, North Vancouver, BC, V7L 1C3",1,1,,"$599,000",713
-231,"2999 Larson Road, North Vancouver, BC, V7N 3W6",3,5,50 x 120,"$1,950,000",2733
-232,"734 Orwell Street, North Vancouver, BC, V7J 0A5",3,3,,"$1,015,000",1449
-233,"108-3658 Banff Court, North Vancouver, BC, V7H 2Z9",2,2,,"$729,000",1132
-234,"4486 Highland Boulevard, North Vancouver, BC, V7R 2Z9",4,3,75 x 112,"$1,649,000",2090
-235,"286 Monteray Way, North Vancouver, BC, V7N 3E6",5,5,0 x 114,"$2,778,000",3958
-236,"1164 W 22nd Street, North Vancouver, BC, V7P 2E8",3,5,50 x 160,"$1,849,300",2435
-237,"1008 Belmont Avenue, North Vancouver, BC, V7K 1K2",6,5,70 x 115,"$4,488,000",5517
-238,"5656 Ptarmigan Place, North Vancouver, BC, V7R 4S3",4,5,,"$1,499,999",3041
-239,"3270 Allan Road, North Vancouver, BC, V7J 3C5",6,7,61 x 100,"$2,479,000",4331
-240,"2064 Rivergrove Place, North Vancouver, BC, V7H 2L4",3,3,58 x 2,"$1,599,700",2614
-241,"206-717 Chesterfield Avenue, North Vancouver, BC, V7M 3L8",2,2,,"$789,000",900
-242,"2-2358 Western Avenue, North Vancouver, BC, V7M 2L3",4,3,,"$1,295,000",1718
-243,"307-135 E 17th Street, North Vancouver, BC, V7L 0C4",2,2,,"$925,000",1003
-244,"3715 Dollarton Highway, North Vancouver, BC, V7G 1A1",,0,,"$12,088,000",
-245,"998 Melbourne Avenue, North Vancouver, BC, V7R 1N9",8,6,80 x 115,"$3,998,000",5793
-246,"302-116 W 23rd Street, North Vancouver, BC, V7M 2A9",2,2,,"$769,900",1035
-247,"946 Glenora Avenue, North Vancouver, BC, V7R 1M3",1,3,70 x 115,"$1,799,000",1518
-248,"4675 Lockehaven Place, North Vancouver, BC, V7G 2H3",3,4,53 x 132,"$1,888,000",3192
-249,"2193 Hixon Court, North Vancouver, BC, V7G 2R6",4,6,61 x 154,"$1,838,000",4010
-250,"850 W 20th Street, North Vancouver, BC, V7P 2B4",2,4,75 x 140,"$1,899,000",2034
-251,"1407-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,0,,"$425,000",450
-252,"1066 Lillooet Road, North Vancouver, BC, V7J 2H8",3,3,,"$899,000",2812
-253,"402-1550 Fern Street, North Vancouver, BC, V7J 0A9",2,2,,"$714,900",841
-254,"867 Westview Crescent, North Vancouver, BC, V7N 3X9",1,2,,"$539,000",952
-255,"207-140 East 4th Street, North Vancouver, BC, V7L 4R1",1,1,,"$499,900",640
-256,"760 E 13th Street, North Vancouver, BC, V7L 2M7",5,6,33 x 125,"$1,998,000",3140
-257,"2-227 E 11th Street, North Vancouver, BC, V7L 2G8",3,3,,"$1,178,000",1771
-258,"3182 Strathaven Lane, North Vancouver, BC, V7H 1G2",3,4,63 x 125,"$1,399,000",2503
-259,"409-2024 Fullerton Avenue, North Vancouver, BC, V7P 3G4",2,2,,"$630,000",1113
-260,"310-1385 Draycott Road, North Vancouver, BC, V7J 3K9",2,2,,"$729,000",1300
-261,"1276 Premier Street, North Vancouver, BC, V7J 2H4",2,4,,"$798,900",1909
-262,"1005-150 W 15th Street, North Vancouver, BC, V7M 0C4",2,2,,"$1,099,000",925
-263,"204-1385 Draycott Road, North Vancouver, BC, V7J 3K9",2,2,,"$599,000",1319
-264,"201-1629 Garden Avenue, North Vancouver, BC, V7P 3A6",1,2,,"$598,800",803
-265,"3182 Mountain Highway, North Vancouver, BC, V7K 2H5",2,3,,"$649,900",1364
-266,"3890 St Marys Avenue, North Vancouver, BC, V7N 1Y1",2,4,70 x 164,"$1,895,000",1876
-267,"202-3732 Mt Seymour Parkway, North Vancouver, BC, V7G 1C3",2,2,,"$719,900",1076
-268,"1732 Fell Avenue, North Vancouver, BC, V7P 2K6",,0,52 x 150,"$1,150,000",
-269,"206-2138 Old Dollarton Road, North Vancouver, BC, V7H 1A7",1,2,,"$578,000",785
-270,"906-1320 Chesterfield Avenue, North Vancouver, BC, V7M 0A6",1,1,,"$539,999",557
-271,"1531 Coleman Street, North Vancouver, BC, V7K 1W4",,0,91 x 238,"$2,700,000",
-272,"1531 Coleman Street, North Vancouver, BC, V7K 1W4",2,4,91 x 238,"$2,700,000",2474
-273,"204 W 4th Street, North Vancouver, BC, V7M 1H7",2,3,,"$999,000",1888
-274,"213-1330 Marine Drive, North Vancouver, BC, V7P 1T4",1,1,,"$699,000",694
-275,"298 Monteray Avenue, North Vancouver, BC, V7N 3E7",5,4,60 x 110,"$1,329,000",4420
-276,"4136 Coventry Way, North Vancouver, BC, V7N 4M9",,0,,"$1,399,000",
-277,"105-1591 Bowser Avenue, North Vancouver, BC, V7P 2Y4",1,1,,"$679,000",628
-278,"3055 Plymouth Drive, North Vancouver, BC, V7H 1C8",3,5,60 x 128,"$1,389,000",2509
-279,"206 W Balmoral Road, North Vancouver, BC, V7N 2T8",3,4,67 x 104,"$1,849,800",2711
-280,"1886 Fullerton Avenue, North Vancouver, BC, V7P 1X5",2,4,64 x 131,"$2,888,550",2814
-281,"1804 Fell Avenue, North Vancouver, BC, V7P 2K6",2,2,52 x 150,"$1,099,000",1442
-282,"150-3300 Capilano Road, North Vancouver, BC, V7R 4H8",4,4,,"$1,258,000",2143
-283,"309-175 E 10th Street, North Vancouver, BC, V7L 4W1",2,2,,"$758,000",1068
-284,"214-530 Raven Woods Drive, North Vancouver, BC, V7G 2T5",1,2,,"$499,000",856
-285,"307-717 Chesterfield Avenue, North Vancouver, BC, V7M 0C2",2,3,,"$855,000",972
-286,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,"$799,000",949
-287,"524 Lowry Lane, North Vancouver, BC, V7G 1R3",2,2,114 x 87,"$3,495,000",2305
-288,"3203-33 Chesterfield Place, North Vancouver, BC, V7M 3K4",1,1,,"$589,000",770
-289,"1360 Plateau Drive, North Vancouver, BC, V7P 2J6",1,1,50 x 133,"$899,000",800
-290,"307-1633 Capilano Road, North Vancouver, BC",2,2,,"$989,900",900
-291,"606-1633 Capilano Road, North Vancouver, BC",2,2,,"$969,900",924
-292,"1105-1633 Capilano Road, North Vancouver, BC",1,1,,"$798,900",585
-293,"1102-1633 Capilano Road, North Vancouver, BC",1,1,,"$699,900",513
-294,"1210 Pinewood Crescent, North Vancouver, BC, V7P 1E9",2,3,60 x 103,"$1,198,000",1500
-295,"309-1111 E 27th Street, North Vancouver, BC, V7J 1S3",2,2,,"$688,000",904
-296,"204-1061 Marine Drive, North Vancouver, BC, V7P 1S6",2,2,,"$699,000",873
-297,"102-615 E 3rd Street, North Vancouver, BC, V7L 1G6",2,2,,"$779,900",839
-298,"449 E 15th Street, North Vancouver, BC, V7N 1T8",2,4,50 x 146,"$1,399,000",2150
-299,"214-780 Premier Street, North Vancouver, BC, V7J 2G8",1,1,,"$358,000",747
-300,"G02-135 W 2nd Street, North Vancouver, BC, V7M 0C5",1,1,,"$748,000",699
-301,"1663 Pierard Road, North Vancouver, BC, V7J 1Y4",3,4,70 x 129,"$1,749,000",2470
-302,"108-139 W 22nd Street, North Vancouver, BC, V7M 0B5",2,2,,"$839,000",963
-303,"1311-2012 Fullerton Avenue, North Vancouver, BC, V7P 3E3",1,1,,"$529,000",761
-304,"306-615 E 3rd Street, North Vancouver, BC, V7L 0G3",2,2,,"$899,000",978
-305,"3340 Baird Road, North Vancouver, BC, V7K 2G7",6,7,64 x 120,"$2,868,000",4749
-306,"250 W Rockland Road, North Vancouver, BC, V7N 2V9",3,4,69 x 107,"$1,898,000",3233
-307,"202-615 E 3rd Street, North Vancouver, BC, V7L 1G6",2,2,,"$819,900",801
-308,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,"$659,000",873
-309,"314-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,1,,"$569,900",602
-310,"212-615 E 3rd Street, North Vancouver, BC, V7L 1G6",2,2,,"$899,900",1072
-311,"948 Whitchurch Street, North Vancouver, BC, V7L 2A6",6,7,50 x 140,"$2,749,000",4540
-312,"618 E 11th Street, North Vancouver, BC, V7L 2H6",6,7,50 x 147,"$2,868,000",5000
-313,"1201-155 W 1st Street, North Vancouver, BC, V7M 3N8",1,0,,"$489,900",458
-314,"203-170 E 3rd Street, North Vancouver, BC, V7L 1E6",1,1,,"$425,000",746
-315,"3430 Aintree Drive, North Vancouver, BC, V7R 4E3",5,4,70 x 110,"$3,580,000",3155
-316,"SPH 901-175 Victory Ship Way, North Vancouver, BC, V7L 0G1",1,1,,"$848,000",618
-317,"1297 Eldon Road, North Vancouver, BC, V7R 1T5",4,5,53 x 130,"$2,749,000",4483
-318,"9-3025 Baird Road, North Vancouver, BC, V7K 2G5",3,3,,"$1,060,000",1437
-319,"12-1434 Mahon Avenue, North Vancouver, BC, V7M 2S4",3,2,,"$879,000",2133
-320,"201-119 W 22nd Street, North Vancouver, BC, V7M 0B4",1,1,,"$619,000",735
-321,"3533 Norwood Avenue, North Vancouver, BC, V7N 3P6",4,5,40 x 114,"$1,599,900",3434
-322,"101-131 W 3rd Street, North Vancouver, BC, V7M 1E7",1,0,,"$489,000",727
-323,"360-1100 E 29th Street, North Vancouver, BC, V7K 3E4",1,1,,"$499,000",685
-324,"113-251 W 4th Street, North Vancouver, BC, V7M 1H8",1,1,,"$449,000",649
-325,"1001-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,"$635,000",575
-326,"215-735 West 15th Street, North Vancouver, BC, V7M 0B8",2,2,,"$889,000",920
-327,"505-1621 Hamilton Avenue, North Vancouver, BC, V7P 0B6",2,2,,"$1,049,000",948
-328,"607-135 E 17th Street, North Vancouver, BC, V7L 0C4",2,2,,"$899,000",969
-329,"9-1550 Larkhall Crescent, North Vancouver, BC, V7H 2Z2",3,3,,"$1,219,000",1838
-330,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,"$659,000",873
-331,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,"$799,000",949
-332,"554 E Kings Road, North Vancouver, BC, V7N 1J3",5,4,100 x 132,"$1,950,000",4174
-333,"312-2665 Mountain Highway, North Vancouver, BC, V7J 0A8",2,3,,"$729,000",961
-334,"1527 Edgewater Lane, North Vancouver, BC, V7H 1T3",3,3,66 x 216,"$1,899,000",3869
-335,"314-333 E 1st Street, North Vancouver, BC, V7L 4W9",2,2,,"$928,000",1083
-336,"206-108 W Esplanade, North Vancouver, BC, V7M 3M8",2,2,,"$649,900",967
-337,"12-1073 Lynn Valley Road, North Vancouver, BC, V7J 1Z6",2,2,,"$812,000",1039
-338,"305-3205 Mountain Highway, North Vancouver, BC, V7K 0A3",1,1,,"$552,000",650
-339,"502-3629 Deercrest Drive, North Vancouver, BC, V7G 2S9",2,3,,"$929,000",1357
-340,"406-3602 Aldercrest Drive, North Vancouver, BC, V7G 0A2",2,2,,"$645,000",897
-341,"206 E 5 Street, North Vancouver, BC, V7L 1L7",3,3,,"$999,000",1371
-342,"4158 Mt Seymour Parkway, North Vancouver, BC, V7G 1C5",2,4,60 x 120,"$1,348,000",1814
-343,"2480 Carnation Street, North Vancouver, BC, V7H 1H4",3,4,69 x 132,"$1,588,000",2382
-344,"300-160 W 3rd Street, North Vancouver, BC, V7M 0A9",1,1,,"$649,000",673
-345,"105-308 W 2nd Street, North Vancouver, BC, V7M 1E1",2,2,,"$569,000",860
-346,"701-175 Victory Ship Way, North Vancouver, BC, V7L 0G1",1,1,,"$818,000",618
-347,"310-159 W 22nd Street, North Vancouver, BC, V7M 0B6",2,2,,"$885,000",980
-348,"314-251 W 4th Street, North Vancouver, BC, V7M 1H8",1,2,,"$675,000",882
-349,"109-235 W 4th Street, North Vancouver, BC, V7M 1H8",1,1,,"$479,900",606
-350,"110-155 E 5th Street, North Vancouver, BC, V7L 1L3",1,1,,"$265,000",654
-351,"426-255 W 1st Street, North Vancouver, BC, V7M 3G8",2,2,,"$809,000",844
-352,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,"$659,000",873
-353,"4262 Lions Avenue, North Vancouver, BC, V7R 1W1",6,5,100 x 100,"$4,588,000",6352
-354,"302-2601 Whiteley Court, North Vancouver, BC, V7J 2R7",2,2,,"$790,000",990
-355,"610-719 W 3rd Street, North Vancouver, BC, V7M 0E7",2,2,,"$1,075,000",975
-356,"1150 Canyon Boulevard, North Vancouver, BC, V7R 2K4",4,5,33 x 120,"$1,599,900",3083
-357,"903-112 E 13th Street, North Vancouver, BC, V7L 0E4",2,2,,"$949,000",913
-358,"5421 Molina Crescent, North Vancouver, BC, V7R 4R7",4,6,0 x 0,"$1,998,000",4576
-359,"304-3670 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,"$869,900",1338
-360,"1301-1479 Hunter Street, North Vancouver, BC",2,2,,"$870,900",916
-361,"1350 Sowden Street, North Vancouver, BC, V7P 1L8",4,4,62 x 100,"$1,749,000",2223
-362,"225-3629 Deercrest Drive, North Vancouver, BC, V7G 2S9",2,2,,"$628,000",847
-363,"524-255 W 1st Street, North Vancouver, BC, V7M 3G8",2,3,,"$1,399,000",1259
-364,"508 East 10th Street, North Vancouver, BC, V7L 2E6",1,2,50 x 146,"$1,395,000",978
-365,"1777 Kilkenny Road, North Vancouver, BC, V7J 1T8",4,4,,"$2,288,000",3603
-366,"208-960 Lynn Valley Road, North Vancouver, BC, V7J 3V6",1,1,,"$389,900",630
-367,"4377 Mountain Highway, North Vancouver, BC, V7K 2K3",3,5,58 x 230,"$1,599,000",2178
-368,"C8-332 Lonsdale Avenue, North Vancouver, BC, V7M 3M5",2,2,,"$799,000",1091
-369,"1-3490 Mt Seymour Parkway, North Vancouver, BC, V7H 1G5",3,2,,"$949,900",1284
-370,"321-255 W 1st Street, North Vancouver, BC, V7M 3G8",2,2,,"$945,000",980
-371,"507-188 E Esplanade, North Vancouver, BC, V7L 4Y1",1,1,,"$675,000",738
-372,"6-1205 Harold Road, North Vancouver, BC, V7K 1G5",4,2,,"$1,598,000",1608
-373,"306-317 Bewicke Avenue, North Vancouver, BC, V7M 3E9",1,1,,"$595,000",559
-374,"2848 Wembley Drive, North Vancouver, BC, V7J 3B6",3,5,60 x 125,"$1,299,000",2112
-375,"904-1327 E Keith Road, North Vancouver, BC, V7J 3T5",2,2,,"$825,000",1153
-376,"319-221 E 3rd Street, North Vancouver, BC, V7L 0C1",2,2,,"$849,000",940
-377,"103-345 Lonsdale Avenue, North Vancouver, BC, V7M 3M9",3,3,,"$749,000",1418
-378,"314-780 Premier Street, North Vancouver, BC, V7J 2G8",1,1,,"$390,000",742
-379,"407-2738 Library Lane, North Vancouver, BC, V7J 0B3",1,1,,"$546,800",580
-380,"4160 Capilano Road, North Vancouver, BC, V7R 4J7",3,4,75 x 139,"$2,149,000",2916
-381,"111-216 E 6th Street, North Vancouver, BC, V7L 1P5",3,3,,"$1,077,000",1778
-382,"612-1500 Ostler Court, North Vancouver, BC, V7G 2S2",3,3,,"$899,000",2439
-383,"208-2738 Library Lane, North Vancouver, BC, V7J 0B3",1,1,,"$499,800",593
-384,"316 E 15th Street, North Vancouver, BC, V7L 2R8",2,5,38 x 147,"$1,339,000",2290
-385,"10-4055 Indian River Drive, North Vancouver, BC, V7G 2R7",3,4,,"$1,015,000",2474
-386,"206-725 Marine Drive, North Vancouver, BC, V7M 1H4",2,2,,"$650,900",762
-387,"5-645 W 14th Street, North Vancouver, BC, V7M 1R3",1,2,,"$729,000",825
-388,"1205-121 W 16th Street, North Vancouver, BC, V7M 3P4",2,2,,"$899,000",969
-389,"543 W 21st Street, North Vancouver, BC, V7M 1Z8",5,6,,"$2,238,000",3748
-390,"1425 Paisley Road, North Vancouver, BC, V7R 1C4",6,6,49 x 120,"$2,795,000",4025
-391,"216-3220 Connaught Crescent, North Vancouver, BC, V7R 0A5",2,2,,"$2,249,000",1380
-392,"1906-1550 Fern Street, North Vancouver, BC, V7L 4X8",1,1,,"$568,000",602
-393,"4576 Cove Cliff Road, North Vancouver, BC, V7G 1H6",3,4,50 x 120,"$1,498,800",2711
-394,"401-540 Lonsdale Avenue, North Vancouver, BC, V7M 2G7",2,2,,"$612,900",907
-395,"225-332 Lonsdale Avenue, North Vancouver, BC, V7M 3M5",1,2,,"$599,000",795
-396,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,"$659,000",873
-397,"836 Hendecourt Road, North Vancouver, BC, V7K 2Y2",3,4,,"$988,000",2180
-398,"328 E 21st Street, North Vancouver, BC, V7L 3B8",2,4,46 x 135,"$1,427,000",2102
-399,"54-650 Roche Point Drive, North Vancouver, BC, V7H 2Z5",3,2,,"$799,000",1297
-400,"1017 Old Lillooet Road, North Vancouver, BC, V7J 3H6",2,2,,"$575,000",1366
-401,"267-1100 E 29th Street, North Vancouver, BC, V7K 3E4",1,1,,"$499,800",697
-402,"503-125 E 14th Street, North Vancouver, BC, V7N 0A5",1,1,,"$655,000",635
-403,"1724 Arborlynn Drive, North Vancouver, BC, V7J 2V8",5,7,,"$1,838,000",3464
-404,"1261 E 15th Street, North Vancouver, BC, V7J 1K6",5,7,70 x 157,"$1,689,000",3656
-405,"201-122 E 17th Street, North Vancouver, BC, V7L 2V5",2,2,,"$499,900",987
-406,"201-175 W 4th Street, North Vancouver, BC, V7M 1H6",1,1,,"$525,000",700
-407,"107-155 E 3rd Street, North Vancouver, BC, V7L 1E3",1,2,,"$709,900",830
-408,"1351 W 15th Street, North Vancouver, BC, V7P 1N1",2,3,62 x 100,"$1,199,000",1207
-409,"45-1910 Cedar Village Crescent, North Vancouver, BC, V7J 3M5",2,4,,"$789,000",1764
-410,"214-3205 Mountain Highway, North Vancouver, BC, V7K 0A3",2,2,,"$749,900",864
-411,"410-3606 Aldercrest Drive, North Vancouver, BC, V7G 0A3",1,1,,"$499,900",772
-412,"1415 Harold Road, North Vancouver, BC, V7J 1W9",5,5,33 x 132,"$1,998,800",2966
-413,"4054 Norwood Avenue, North Vancouver, BC, V7N 3R3",3,4,62 x 141,"$1,728,000",2923
-414,"3611 Baird Road, North Vancouver, BC, V7K 2H1",6,6,133 x 43,"$2,399,800",4075
-415,"405-2135 Heritage Park Lane, North Vancouver, BC, V7H 0B6",3,3,,"$963,000",1339
-416,"303-408 Lonsdale Avenue, North Vancouver, BC, V7M 2G5",2,2,,"$799,000",989
-417,"415 Monteray Avenue, North Vancouver, BC, V7N 3E9",3,3,,"$2,099,000",2199
+0,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,659000,873
+1,"836 Hendecourt Road, North Vancouver, BC, V7K 2Y2",3,4,,988000,2180
+2,"5386 Cliffridge Avenue, North Vancouver, BC, V7R 3V4",3,5,50 x 129,2248000,3033
+3,"1160 Ridgewood Drive, North Vancouver, BC, V7R 1J3",,0,105 x 177,1799000,
+4,"317-3220 Connaught Crescent, North Vancouver, BC, V7T 2P9",2,2,,1599800,905
+5,"1367 Briarlynn Crescent, North Vancouver, BC, V7J 1N3",2,4,60 x 150,1149000,1887
+6,"328 E 20th Street, North Vancouver, BC, V7L 3A7",3,5,38 x 45,1599000,1979
+7,"115-332 Lonsdale Avenue, North Vancouver, BC, V7M 3M5",1,1,,484500,678
+8,"3182 Mountain Highway, North Vancouver, BC, V7K 2H5",2,3,,649900,1364
+9,"310-733 W 14th Street, North Vancouver, BC, V7M 0C6",2,2,,698000,815
+10,"506-2016 Fullerton Avenue, North Vancouver, BC, V7P 3E6",1,1,,370000,641
+11,"316-3608 Deercrest Drive, North Vancouver, BC, V7G 2S8",2,2,,498000,854
+12,"505-1677 Lloyd Avenue, North Vancouver, BC, V7P 0B1",1,1,,599000,697
+13,"579 W 22nd Street, North Vancouver, BC, V7M 2A6",6,5,65 x 150,2468000,3349
+14,"104-177 W 5th Street, North Vancouver, BC, V7M 1J6",2,2,,539000,771
+15,"130 W Windsor Road, North Vancouver, BC, V7N 2M8",,0,33 x 123,1290000,
+16,"256 W 17th Street, North Vancouver, BC, V7M 1V6",4,5,,1529000,2514
+17,"1034 Montroyal Boulevard, North Vancouver, BC, V7R 2H4",8,8,60 x 118,2998000,5057
+18,"2902 St. Andrews Avenue, North Vancouver, BC, V7N 1Z4",8,7,,2798000,5722
+19,"404-185 Victory Ship Way, North Vancouver, BC, V7L 0G2",2,2,,1488000,1133
+20,"438 E Braemar Road, North Vancouver, BC, V7N 1R1",8,7,75 x 122,3688000,5335
+21,"1793 Rufus Drive, North Vancouver, BC, V7J 3L8",1,3,30 x 129,878000,1798
+22,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,659000,873
+23,"904-1327 E Keith Road, North Vancouver, BC, V7J 3T5",2,2,,825000,1153
+24,"6-3508 Mt Seymour Parkway, North Vancouver, BC, V7H 1G5",3,3,,899900,1247
+25,"4080 Prospect Road, North Vancouver, BC, V7N 3L5",6,5,0 x 0,3498000,5015
+26,"102-827 W 16th Street, North Vancouver, BC, V7P 1R2",1,1,,439000,728
+27,"314-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,1,,569900,602
+28,"1309-2008 Fullerton Avenue, North Vancouver, BC, V7P 3G7",1,2,,568900,844
+29,"201-715 W 15th Street, North Vancouver, BC, V7M 1T2",1,1,,699000,841
+30,"102-3690 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,824800,1391
+31,"105-3625 Windcrest Drive, North Vancouver, BC, V7N 4M2",2,2,,519000,842
+32,"201-1629 Garden Avenue, North Vancouver, BC, V7P 3A6",1,2,,598800,803
+33,"12-3596 Salal Drive, North Vancouver, BC, V7G 0A7",3,3,,969000,1614
+34,"111-809 W 16th Street, North Vancouver, BC, V7P 1R2",1,2,,527900,912
+35,"401-1050 Bowron Court, North Vancouver, BC, V7H 2X7",2,2,,669000,1355
+36,"349 W 17th Street, North Vancouver, BC, V7M 1V9",6,7,50 x 140,2880000,4944
+37,"106-1591 Bowser Avenue, North Vancouver, BC, V7P 2Y4",2,2,,948900,1274
+38,"203-1591 Bowser Avenue, North Vancouver, BC, V7P 2Y4",1,0,,592900,659
+39,"PH3-1591 Bowser Avenue, North Vancouver, BC, V7P 2Y4",2,2,,1038900,1067
+40,"1270 Premier Street, North Vancouver, BC, V7J 2H4",2,3,,724900,1928
+41,"3130 Lonsdale Avenue, North Vancouver, BC, V7N 3J8",2,3,,885000,1528
+42,"3842 Emerald Drive, North Vancouver, BC, V7R 3B8",6,5,70 x 150,2880000,4737
+43,"321-680 Seylynn Crescent, North Vancouver, BC, V7J 2L6",2,1,,818800,1012
+44,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,659000,873
+45,"2963 Paisley Road, North Vancouver, BC, V7R 1C6",1,2,50 x 131,1399000,930
+46,"628 E 17th Street, North Vancouver, BC, V7L 2W6",4,5,67 x 147,2898000,4375
+47,"795 Donegal Place, North Vancouver, BC, V7N 2X8",6,5,70 x 115,3998000,5275
+48,"2451 Berton Place, North Vancouver, BC, V7H 2W9",4,6,,1775000,4867
+49,"4935 Cedarcrest Avenue, North Vancouver, BC, V7R 3R7",6,6,120 x 66,2998000,4706
+50,"1305-2004 Fullerton Avenue, North Vancouver, BC, V7P 3G8",1,2,,518000,761
+51,"710-175 Victory Ship Way, North Vancouver, BC, V7L 0G1",1,1,,848000,650
+52,"1641 Eastern Avenue, North Vancouver, BC, V7L 0C4",2,1,,729900,916
+53,"1549 Kilmer Road, North Vancouver, BC, V7K 1R5",2,4,33 x 133,1199000,2366
+54,"501 Saville Crescent, North Vancouver, BC, V7N 3A9",2,3,70 x 115,2398000,3219
+55,"1940 Panorama Drive, North Vancouver, BC, V7G 1V1",2,3,50 x 120,1050000,2225
+56,"302-725 Marine Drive, North Vancouver, BC, V7M 1H4",2,2,,670990,771
+57,"2001-135 E 17th Street, North Vancouver, BC, V7L 0C4",3,3,,2288000,1268
+58,"1152 Premier Street, North Vancouver, BC, V7J 2H3",3,3,,739000,1692
+59,"328 E 8th Street, North Vancouver, BC, V7L 1Z3",5,4,,1815000,2883
+60,"1028 Cloverley Street, North Vancouver, BC, V7L 1N3",6,6,50 x 140,2548000,4711
+61,"896 Montroyal Boulevard, North Vancouver, BC, V7R 3R5",4,5,33 x 120,1998000,2972
+62,"1006-158 W 13 Street, North Vancouver, BC, V7M 0A7",2,2,,1079000,1077
+63,"2446 Hyannis Drive, North Vancouver, BC, V7H 2E6",3,4,60 x 130,1399000,2176
+64,"4820 Cedarcrest Avenue, North Vancouver, BC, V7R 3R5",4,5,33 x 120,1998000,2972
+65,"309-111 E 3rd Street, North Vancouver, BC, V7L 0C6",2,2,,828000,874
+66,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,659000,873
+67,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,674900,575
+68,"1210-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,615000,550
+69,"1926 Purcell Way, North Vancouver, BC, V7J 3K3",3,4,,785000,1924
+70,"1202-130 E 2nd Street, North Vancouver, BC, V7L 1C3",2,2,,979000,1190
+71,"4507 Cedarcrest Avenue, North Vancouver, BC, V7R 3R2",6,6,0 x 159,3850000,5163
+72,"3520 Frederick Road, North Vancouver, BC, V7K 2Z8",4,5,79 x 146,1378000,1867
+73,"2-650 Roche Point Drive, North Vancouver, BC, V7H 2Z5",3,2,,788000,1251
+74,"4262 Lions Avenue, North Vancouver, BC, V7R 1W1",6,5,100 x 100,4588000,6352
+75,"1504-1555 Eastern Avenue, North Vancouver, BC, V7L 3G2",2,2,,779000,976
+76,"109-277 W 1st Street, North Vancouver, BC, V7M 0E8",2,2,,859000,1008
+77,"442-444 E 1st Street, North Vancouver, BC, V7L 1B7",4,6,50 x 120,2438000,2004
+78,"2963 Paisley Road, North Vancouver, BC, V7R 1C6",1,2,50 x 131,1399000,930
+79,"906-160 W Keith Road, North Vancouver, BC, V7M 3M2",2,2,,1119000,1081
+80,"3698 Glenview Crescent, North Vancouver, BC, V7R 3E8",7,5,70 x 160,4398000,5368
+81,"210-3230 Connaught Crescent, North Vancouver, BC, V7K 1Y4",2,2,,2449000,1502
+82,"1406 Paisley Road, North Vancouver, BC, V7R 1C3",5,6,59 x 106,2350000,3894
+83,"306-3732 Mount Seymour Parkway, North Vancouver, BC, V7G 1C3",1,2,,630000,822
+84,"736 E 3rd Street, North Vancouver, BC, V7L 1G9",4,6,50 x 137,1599000,3356
+85,"350 Tempe Crescent, North Vancouver, BC, V7N 1E6",4,5,60 x 110,2138000,3246
+86,"4364 Dollar Road, North Vancouver, BC, V7G 1B1",2,4,80 x 100,1498000,1902
+87,"330 E 8th Street, North Vancouver, BC, V7L 1Z3",5,4,50 x 145,1799800,2720
+88,"2848 Wembley Drive, North Vancouver, BC, V7J 3B6",3,5,60 x 125,1299000,2112
+89,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,799000,949
+90,"1608-135 E 17th Street, North Vancouver, BC, V7L 0C4",1,1,,624000,554
+91,"105-225 W 3rd Street, North Vancouver, BC, V7M 1E9",1,1,,499500,654
+92,"204-241 St. Andrews Avenue, North Vancouver, BC, V7L 3K8",1,1,,399900,638
+93,"1317-2012 Fullerton Avenue, North Vancouver, BC, V7P 3E3",1,0,,300000,481
+94,"3020 Griffin Place, North Vancouver, BC, V7R 4W9",4,5,27 x 128,1968000,3319
+95,"208-341 W 3rd Street, North Vancouver, BC, V7M 1G3",1,1,,498000,710
+96,"409-139 W 22nd Street, North Vancouver, BC, V7M 0B5",2,2,,765000,857
+97,"30-757 Orwell Street, North Vancouver, BC, V7J 3K6",3,3,,999000,1445
+98,"3715 Campbell Avenue, North Vancouver, BC, V7K 2M4",2,3,55 x 133,1250000,2216
+99,"403-151 W 2nd Street, North Vancouver, BC, V7M 3P1",2,2,,899000,926
+100,"4812 Skyline Drive, North Vancouver, BC, V7R 3J3",5,6,,2699000,4399
+101,"1061 Doran Road, North Vancouver, BC, V7K 1M6",3,5,56 x 150,1699800,2511
+102,"101-143 E 19th Street, North Vancouver, BC, V7L 2Y9",1,2,,473900,1065
+103,"524 Lowry Lane, North Vancouver, BC, V7G 1R3",2,2,114 x 87,3495000,2305
+104,"728 Orwell Street, North Vancouver, BC, V7J 0A5",4,4,,1235000,1679
+105,"176 W Kings Road, North Vancouver, BC, V7N 2L8",2,4,33 x 132,1250000,1772
+106,"906-2004 Fullerton Avenue, North Vancouver, BC, V7P 3G8",1,1,,349000,531
+107,"414-555 W 28th Street, North Vancouver, BC, V7N 2J7",1,2,,479900,918
+108,"214 E 21st Street, North Vancouver, BC, V7L 3B6",5,4,,1715000,2883
+109,"318-2665 Mountain Highway, North Vancouver, BC, V7J 0A8",2,3,,829900,1107
+110,"4262 Lions Avenue, North Vancouver, BC, V7R 1W1",6,5,100 x 100,4588000,6352
+111,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,799000,949
+112,"3602 Bluebonnet Road, North Vancouver, BC, V7R 4E1",8,7,73 x 125,4088000,5281
+113,"401-172 Victory Ship Way, North Vancouver, BC, V7L 0B5",1,1,,588000,590
+114,"212-3220 Connaught Crescent, North Vancouver, BC, V7K 1Y4",2,2,,1249000,877
+115,"201-1201 W 16th Street, North Vancouver, BC, V7P 1R5",2,2,,759000,911
+116,"2848 Wembley Drive, North Vancouver, BC, V7J 3B6",3,5,60 x 125,1299000,2112
+117,"4342 Skyline Drive, North Vancouver, BC, V7R 3G7",3,3,74 x 148,2280000,2354
+118,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,674900,575
+119,"113-2738 Library Lane, North Vancouver, BC, V7J 0B3",3,2,,998000,1163
+120,"205-3608 Deercrest Drive, North Vancouver, BC, V7G 2S8",2,2,,499000,844
+121,"2406-1550 Fern Street, North Vancouver, BC, V7J 0A9",2,2,,949900,1011
+122,"547 W 20th Street, North Vancouver, BC, V7M 1Y8",7,8,50 x 145,2448000,4490
+123,"804-175 Victory Ship Way, North Vancouver, BC, V7L 0G1",2,2,,1288000,1144
+124,"214-3220 Connaught Crescent, North Vancouver, BC, V7R 0A5",2,2,,1249000,854
+125,"9-550 Browning Place, North Vancouver, BC, V7H 3A9",3,4,,999000,1781
+126,"2809 Edgemont Boulevard, North Vancouver, BC, V7R 2N3",6,5,70 x 115,4950000,5037
+127,"319 W 26th Street, North Vancouver, BC, V7N 2G7",4,5,50 x 114,1599900,2994
+128,"4587 Glenwood Avenue, North Vancouver, BC, V7R 4G6",6,6,60 x 188,3898000,4771
+129,"3687 Campbell Avenue, North Vancouver, BC, V7K 2M4",3,4,,1550000,1971
+130,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,799000,949
+131,"356 W 23 Street, North Vancouver, BC, V7M 2B5",2,3,46 x 120,1349000,1023
+132,"904-1327 E Keith Road, North Vancouver, BC, V7J 3T5",2,2,,825000,1153
+133,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,674900,575
+134,"21-1811 Purcell Way, North Vancouver, BC, V7J 3H4",1,2,,499900,1083
+135,"4633 Mountain Highway, North Vancouver, BC, V7K 2K7",3,5,64 x 143,1648000,2699
+136,"102-555 W 28th Street, North Vancouver, BC, V7N 2J7",3,4,,849900,1463
+137,"109-340 W 3rd Street, North Vancouver, BC, V7M 1G4",1,1,,379000,645
+138,"5502 Molina Road, North Vancouver, BC, V7R 4P4",4,4,247 x 75,2149000,3853
+139,"4802 Strathcona Road, North Vancouver, BC, V7G 1G8",2,4,81 x 0,1399000,2104
+140,"31 Johnson Bay, North Vancouver, BC",2,5,100 x 155,735000,1000
+141,"303-139 W 22nd Street, North Vancouver, BC, V7M 0B5",1,1,,569000,638
+142,"2326 Kirkstone Road, North Vancouver, BC, V7J 3M3",3,4,69 x 133,1689000,2946
+143,"1076 Doran Road, North Vancouver, BC, V7K 1M5",6,6,56 x 127,2658000,4804
+144,"1530 Mcnair Drive, North Vancouver, BC, V7K 1X6",2,3,,898800,1690
+145,"229-231 W 15th Street, North Vancouver, BC, V7M 1S3",6,10,49 x 139,2898000,4275
+146,"803 Roche Point Drive, North Vancouver, BC, V7H 2W3",3,3,,1079000,1848
+147,"319-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,1,,548000,618
+148,"29-720 E 3rd Street, North Vancouver, BC, V7L 1G9",4,4,,1414550,1785
+149,"30-720 E 3rd Street, North Vancouver, BC, V7L 1G9",4,4,,1355000,1785
+150,"17-720 E 3rd Street, North Vancouver, BC, V7L 1G9",4,4,,1424000,1785
+151,"31-720 E 3rd Street, North Vancouver, BC, V7L 1G9",4,4,,1399000,1785
+152,"301-223 E Keith Road, North Vancouver, BC, V7L 1V4",2,3,,1129000,1773
+153,"746 Westview Drive, North Vancouver, BC, V7N 3X9",2,2,,519000,1038
+154,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,799000,949
+155,"524 Lowry Lane, North Vancouver, BC, V7G 1R3",2,2,114 x 87,3495000,2305
+156,"313-315 W Keith Road, North Vancouver, BC, V7M 1L9",4,8,50 x 140,2448000,3887
+157,"1707 Medwin Place, North Vancouver, BC, V7H 2C1",3,3,60 x 122,1399900,2064
+158,"202-118 W 22nd Street, North Vancouver, BC, V7M 1Z9",1,1,,535000,802
+159,"330 Sasamat Lane, North Vancouver, BC, V7G 2S4",3,4,,3199000,2584
+160,"38-900 W 17th Street, North Vancouver, BC, V7P 3K5",2,3,,899000,1313
+161,"4100 St. Georges Avenue, North Vancouver, BC, V7N 1W8",4,5,82 x 132,3498000,3791
+162,"3120 Lonsdale Avenue, North Vancouver, BC, V7N 3G8",2,2,,700000,1119
+163,"508-1679 Lloyd Avenue, North Vancouver, BC, V7P 0A9",2,2,,788000,913
+164,"1605 Arborlynn Drive, North Vancouver, BC, V7J 2V7",2,4,117 x 110,1149000,1825
+165,"205-3680 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,849900,1357
+166,"2404-125 E 14th Street, North Vancouver, BC, V7L 0E6",2,3,,2999900,1813
+167,"1703-112 E 13th Street, North Vancouver, BC, V7L 0E4",2,2,,3250900,1620
+168,"205-310 W 3rd Street, North Vancouver, BC, V7M 1G4",1,2,,569500,805
+169,"836 Hendecourt Road, North Vancouver, BC, V7K 2Y2",3,4,,988000,2180
+170,"3096 Fromme Road, North Vancouver, BC, V7K 2C9",4,4,70 x 130,1798000,3231
+171,"61-1930 Cedar Village Crescent, North Vancouver, BC, V7J 3M5",2,4,,799000,1679
+172,"215 W Keith Road, North Vancouver, BC, V7M 1L7",2,4,50 x 119,2088000,1976
+173,"209-1633 Tatlow Avenue, North Vancouver, BC, V7P 1V3",2,2,,799000,971
+174,"4717 Glenwood Avenue, North Vancouver, BC, V7R 4G6",3,3,,1228000,2081
+175,"351 W 21st Street, North Vancouver, BC, V7M 1Z6",5,5,33 x 139,1988000,3396
+176,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,674900,575
+177,"4262 Lions Avenue, North Vancouver, BC, V7R 1W1",6,5,100 x 100,4588000,6352
+178,"607-2024 Fullerton Avenue, North Vancouver, BC, V7P 3G4",1,1,,375000,752
+179,"304 Monteray Avenue, North Vancouver, BC, V7N 3E6",3,4,88 x 108,1499000,2577
+180,"124 W Windsor Road, North Vancouver, BC, V7N 2M8",6,5,33 x 123,2290000,2792
+181,"976 Marine Drive, North Vancouver, BC, V0N 1V1",4,4,119 x 1120,4488000,5340
+182,"503-133 E Esplanade, North Vancouver, BC, V7L 1A1",1,1,,889000,660
+183,"305-2135 Heritage Park Lane, North Vancouver, BC, V7H 0B6",3,3,,999900,1410
+184,"115-2012 Fullerton Avenue, North Vancouver, BC, V7P 3E3",2,3,,590000,1035
+185,"5-245 E 5th Street, North Vancouver, BC, V7L 1L8",3,3,,1050000,1455
+186,"212 W 6th Street, North Vancouver, BC, V7M 1K6",5,4,65 x 120,1998000,3562
+187,"4477 Ruskin Place, North Vancouver, BC, V7R 3P7",6,5,71 x 120,3388000,4896
+188,"297 Monteray Avenue, North Vancouver, BC, V7N 3E7",6,6,70 x 132,2998000,4684
+189,"665 Beachview Drive, North Vancouver, BC, V7G 1P8",2,3,78 x 137,2588000,2060
+190,"904-1327 E Keith Road, North Vancouver, BC, V7J 3T5",2,2,,825000,1153
+191,"987 Beaumont Drive, North Vancouver, BC, V7R 1P7",7,6,70 x 115,4188000,5382
+192,"2275 Alden Lane, North Vancouver, BC, V7P 2J7",3,3,51 x 170,1595000,2373
+193,"401-2004 Fullerton Avenue, North Vancouver, BC, V7P 3G8",1,1,,359000,594
+194,"382 E 4th Street, North Vancouver, BC, V7L 1J2",2,3,,1375000,1804
+195,"1075 Belvedere Drive, North Vancouver, BC, V7R 2C6",7,7,69 x 121,3495000,5500
+196,"307-135 E 17th Street, North Vancouver, BC, V7L 0C4",2,2,,925000,1003
+197,"2-2358 Western Avenue, North Vancouver, BC, V7M 2L3",4,3,,1295000,1718
+198,"904-1327 E Keith Road, North Vancouver, BC, V7J 3T5",2,2,,825000,1153
+199,"2963 Paisley Road, North Vancouver, BC, V7R 1C6",1,2,50 x 131,1399000,930
+200,"105-1621 Hamilton Avenue, North Vancouver, BC, V7P 0B6",1,1,,628000,705
+201,"4355 Starlight Way, North Vancouver, BC, V7N 3N8",6,6,60 x 119,3498998,4656
+202,"4415 Capilano Road, North Vancouver, BC, V7R 4J8",1,1,68 x 125,1348000,1003
+203,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,659000,873
+204,"201-157 E 21st Street, North Vancouver, BC, V7L 3B5",1,2,,549900,929
+205,"414-121 W 29th Street, North Vancouver, BC, V7N 4L6",2,2,,555900,1086
+206,"28 Johnson Bay, North Vancouver, BC",2,4,100 x 189,728000,1102
+207,"107-2020 Cedar Village Crescent, North Vancouver, BC, V7J 3P5",2,2,,519000,1106
+208,"303-141 W 13th Street, North Vancouver, BC, V7M 1N5",1,2,,629900,1119
+209,"36-3750 Edgemont Boulevard, North Vancouver, BC, V7R 2P8",4,3,,1899000,3229
+210,"2032 Westview Drive, North Vancouver, BC, V7M 3B2",2,2,,1299000,1260
+211,"220-2060 Curling Road, North Vancouver, BC, V7P 1X4",2,2,,985000,1176
+212,"14 Best Point, North Vancouver, BC",,0,66 x 400,239000,
+213,"1603-110 W 4th Street, North Vancouver, BC, V7M 3H3",1,1,,475000,604
+214,"120-2060 Curling Road, North Vancouver, BC, V7P 1X4",2,3,,939000,1110
+215,"212-4001 Mt Seymour Parkway, North Vancouver, BC, V7G 1Z3",2,3,,969000,1959
+216,"601-124 W 1st Street, North Vancouver, BC, V7M 1A9",1,1,,529000,600
+217,"2260 Capilano Road, North Vancouver, BC, V7P 3B9",2,3,,1099000,1332
+218,"506-1500 Ostler Court, North Vancouver, BC, V7G 2S2",1,1,,548000,819
+219,"614-680 Seylynn Crescent, North Vancouver, BC, V7J 2L6",2,2,,788000,1100
+220,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,674900,575
+221,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,799000,949
+222,"105-3625 Windcrest Drive, North Vancouver, BC, V7N 4M2",2,2,,544000,842
+223,"210-1155 Ross Road, North Vancouver, BC, V7K 1C6",1,2,,547800,907
+224,"720 Westview Crescent, North Vancouver, BC, V7N 3X8",2,2,,499000,1038
+225,"5429 Indian River Drive, North Vancouver, BC, V7G 2T7",2,3,,2850000,1536
+226,"1210-1327 E Keith Road, North Vancouver, BC, V7J 3T5",1,1,,459900,806
+227,"291 Monteray Avenue, North Vancouver, BC, V7N 3E7",6,4,,2798900,4792
+228,"1977 Caledonia Avenue, North Vancouver, BC, V7G 1T7",2,4,47 x 136,1179000,1562
+229,"201-1283 Parkgate Avenue, North Vancouver, BC, V7H 3A3",2,2,,739000,1194
+230,"603-130 E 2nd Street, North Vancouver, BC, V7L 1C3",1,1,,599000,713
+231,"2999 Larson Road, North Vancouver, BC, V7N 3W6",3,5,50 x 120,1950000,2733
+232,"734 Orwell Street, North Vancouver, BC, V7J 0A5",3,3,,1015000,1449
+233,"108-3658 Banff Court, North Vancouver, BC, V7H 2Z9",2,2,,729000,1132
+234,"4486 Highland Boulevard, North Vancouver, BC, V7R 2Z9",4,3,75 x 112,1649000,2090
+235,"286 Monteray Way, North Vancouver, BC, V7N 3E6",5,5,0 x 114,2778000,3958
+236,"1164 W 22nd Street, North Vancouver, BC, V7P 2E8",3,5,50 x 160,1849300,2435
+237,"1008 Belmont Avenue, North Vancouver, BC, V7K 1K2",6,5,70 x 115,4488000,5517
+238,"5656 Ptarmigan Place, North Vancouver, BC, V7R 4S3",4,5,,1499999,3041
+239,"3270 Allan Road, North Vancouver, BC, V7J 3C5",6,7,61 x 100,2479000,4331
+240,"2064 Rivergrove Place, North Vancouver, BC, V7H 2L4",3,3,58 x 2,1599700,2614
+241,"206-717 Chesterfield Avenue, North Vancouver, BC, V7M 3L8",2,2,,789000,900
+242,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,674900,575
+243,"2963 Paisley Road, North Vancouver, BC, V7R 1C6",1,2,50 x 131,1399000,930
+244,"3715 Dollarton Highway, North Vancouver, BC, V7G 1A1",,0,,12088000,
+245,"998 Melbourne Avenue, North Vancouver, BC, V7R 1N9",8,6,80 x 115,3998000,5793
+246,"302-116 W 23rd Street, North Vancouver, BC, V7M 2A9",2,2,,769900,1035
+247,"946 Glenora Avenue, North Vancouver, BC, V7R 1M3",1,3,70 x 115,1799000,1518
+248,"4675 Lockehaven Place, North Vancouver, BC, V7G 2H3",3,4,53 x 132,1888000,3192
+249,"2193 Hixon Court, North Vancouver, BC, V7G 2R6",4,6,61 x 154,1838000,4010
+250,"850 W 20th Street, North Vancouver, BC, V7P 2B4",2,4,75 x 140,1899000,2034
+251,"1407-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,0,,425000,450
+252,"1066 Lillooet Road, North Vancouver, BC, V7J 2H8",3,3,,899000,2812
+253,"402-1550 Fern Street, North Vancouver, BC, V7J 0A9",2,2,,714900,841
+254,"867 Westview Crescent, North Vancouver, BC, V7N 3X9",1,2,,539000,952
+255,"207-140 East 4th Street, North Vancouver, BC, V7L 4R1",1,1,,499900,640
+256,"760 E 13th Street, North Vancouver, BC, V7L 2M7",5,6,33 x 125,1998000,3140
+257,"2-227 E 11th Street, North Vancouver, BC, V7L 2G8",3,3,,1178000,1771
+258,"3182 Strathaven Lane, North Vancouver, BC, V7H 1G2",3,4,63 x 125,1399000,2503
+259,"409-2024 Fullerton Avenue, North Vancouver, BC, V7P 3G4",2,2,,630000,1113
+260,"310-1385 Draycott Road, North Vancouver, BC, V7J 3K9",2,2,,729000,1300
+261,"1276 Premier Street, North Vancouver, BC, V7J 2H4",2,4,,798900,1909
+262,"1005-150 W 15th Street, North Vancouver, BC, V7M 0C4",2,2,,1099000,925
+263,"204-1385 Draycott Road, North Vancouver, BC, V7J 3K9",2,2,,599000,1319
+264,"2848 Wembley Drive, North Vancouver, BC, V7J 3B6",3,5,60 x 125,1299000,2112
+265,"31-720 E 3rd Street, North Vancouver, BC, V7L 1G9",4,4,,1399000,1785
+266,"3890 St Marys Avenue, North Vancouver, BC, V7N 1Y1",2,4,70 x 164,1895000,1876
+267,"202-3732 Mt Seymour Parkway, North Vancouver, BC, V7G 1C3",2,2,,719900,1076
+268,"1732 Fell Avenue, North Vancouver, BC, V7P 2K6",,0,52 x 150,1150000,
+269,"206-2138 Old Dollarton Road, North Vancouver, BC, V7H 1A7",1,2,,578000,785
+270,"906-1320 Chesterfield Avenue, North Vancouver, BC, V7M 0A6",1,1,,539999,557
+271,"1531 Coleman Street, North Vancouver, BC, V7K 1W4",,0,91 x 238,2700000,
+272,"1531 Coleman Street, North Vancouver, BC, V7K 1W4",2,4,91 x 238,2700000,2474
+273,"204 W 4th Street, North Vancouver, BC, V7M 1H7",2,3,,999000,1888
+274,"213-1330 Marine Drive, North Vancouver, BC, V7P 1T4",1,1,,699000,694
+275,"298 Monteray Avenue, North Vancouver, BC, V7N 3E7",5,4,60 x 110,1329000,4420
+276,"4136 Coventry Way, North Vancouver, BC, V7N 4M9",,0,,1399000,
+277,"105-1591 Bowser Avenue, North Vancouver, BC, V7P 2Y4",1,1,,679000,628
+278,"3055 Plymouth Drive, North Vancouver, BC, V7H 1C8",3,5,60 x 128,1389000,2509
+279,"206 W Balmoral Road, North Vancouver, BC, V7N 2T8",3,4,67 x 104,1849800,2711
+280,"1886 Fullerton Avenue, North Vancouver, BC, V7P 1X5",2,4,64 x 131,2888550,2814
+281,"1804 Fell Avenue, North Vancouver, BC, V7P 2K6",2,2,52 x 150,1099000,1442
+282,"150-3300 Capilano Road, North Vancouver, BC, V7R 4H8",4,4,,1258000,2143
+283,"309-175 E 10th Street, North Vancouver, BC, V7L 4W1",2,2,,758000,1068
+284,"214-530 Raven Woods Drive, North Vancouver, BC, V7G 2T5",1,2,,499000,856
+285,"307-717 Chesterfield Avenue, North Vancouver, BC, V7M 0C2",2,3,,855000,972
+286,"2-2358 Western Avenue, North Vancouver, BC, V7M 2L3",4,3,,1295000,1718
+287,"314-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,1,,569900,602
+288,"3203-33 Chesterfield Place, North Vancouver, BC, V7M 3K4",1,1,,589000,770
+289,"1360 Plateau Drive, North Vancouver, BC, V7P 2J6",1,1,50 x 133,899000,800
+290,"307-1633 Capilano Road, North Vancouver, BC",2,2,,989900,900
+291,"606-1633 Capilano Road, North Vancouver, BC",2,2,,969900,924
+292,"1105-1633 Capilano Road, North Vancouver, BC",1,1,,798900,585
+293,"1102-1633 Capilano Road, North Vancouver, BC",1,1,,699900,513
+294,"1210 Pinewood Crescent, North Vancouver, BC, V7P 1E9",2,3,60 x 103,1198000,1500
+295,"309-1111 E 27th Street, North Vancouver, BC, V7J 1S3",2,2,,688000,904
+296,"204-1061 Marine Drive, North Vancouver, BC, V7P 1S6",2,2,,699000,873
+297,"102-615 E 3rd Street, North Vancouver, BC, V7L 1G6",2,2,,779900,839
+298,"449 E 15th Street, North Vancouver, BC, V7N 1T8",2,4,50 x 146,1399000,2150
+299,"214-780 Premier Street, North Vancouver, BC, V7J 2G8",1,1,,358000,747
+300,"G02-135 W 2nd Street, North Vancouver, BC, V7M 0C5",1,1,,748000,699
+301,"1663 Pierard Road, North Vancouver, BC, V7J 1Y4",3,4,70 x 129,1749000,2470
+302,"108-139 W 22nd Street, North Vancouver, BC, V7M 0B5",2,2,,839000,963
+303,"1311-2012 Fullerton Avenue, North Vancouver, BC, V7P 3E3",1,1,,529000,761
+304,"306-615 E 3rd Street, North Vancouver, BC, V7L 0G3",2,2,,899000,978
+305,"3340 Baird Road, North Vancouver, BC, V7K 2G7",6,7,64 x 120,2868000,4749
+306,"250 W Rockland Road, North Vancouver, BC, V7N 2V9",3,4,69 x 107,1898000,3233
+307,"202-615 E 3rd Street, North Vancouver, BC, V7L 1G6",2,2,,819900,801
+308,"314-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,1,,569900,602
+309,"407-1327 Draycott Road, North Vancouver, BC, V7J 1W1",2,2,,799000,949
+310,"212-615 E 3rd Street, North Vancouver, BC, V7L 1G6",2,2,,899900,1072
+311,"948 Whitchurch Street, North Vancouver, BC, V7L 2A6",6,7,50 x 140,2749000,4540
+312,"618 E 11th Street, North Vancouver, BC, V7L 2H6",6,7,50 x 147,2868000,5000
+313,"1201-155 W 1st Street, North Vancouver, BC, V7M 3N8",1,0,,489900,458
+314,"203-170 E 3rd Street, North Vancouver, BC, V7L 1E6",1,1,,425000,746
+315,"3430 Aintree Drive, North Vancouver, BC, V7R 4E3",5,4,70 x 110,3580000,3155
+316,"SPH 901-175 Victory Ship Way, North Vancouver, BC, V7L 0G1",1,1,,848000,618
+317,"1297 Eldon Road, North Vancouver, BC, V7R 1T5",4,5,53 x 130,2749000,4483
+318,"9-3025 Baird Road, North Vancouver, BC, V7K 2G5",3,3,,1060000,1437
+319,"12-1434 Mahon Avenue, North Vancouver, BC, V7M 2S4",3,2,,879000,2133
+320,"201-119 W 22nd Street, North Vancouver, BC, V7M 0B4",1,1,,619000,735
+321,"3533 Norwood Avenue, North Vancouver, BC, V7N 3P6",4,5,40 x 114,1599900,3434
+322,"101-131 W 3rd Street, North Vancouver, BC, V7M 1E7",1,0,,489000,727
+323,"360-1100 E 29th Street, North Vancouver, BC, V7K 3E4",1,1,,499000,685
+324,"113-251 W 4th Street, North Vancouver, BC, V7M 1H8",1,1,,449000,649
+325,"1001-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,635000,575
+326,"215-735 West 15th Street, North Vancouver, BC, V7M 0B8",2,2,,889000,920
+327,"505-1621 Hamilton Avenue, North Vancouver, BC, V7P 0B6",2,2,,1049000,948
+328,"607-135 E 17th Street, North Vancouver, BC, V7L 0C4",2,2,,899000,969
+329,"9-1550 Larkhall Crescent, North Vancouver, BC, V7H 2Z2",3,3,,1219000,1838
+330,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,674900,575
+331,"4262 Lions Avenue, North Vancouver, BC, V7R 1W1",6,5,100 x 100,4588000,6352
+332,"554 E Kings Road, North Vancouver, BC, V7N 1J3",5,4,100 x 132,1950000,4174
+333,"312-2665 Mountain Highway, North Vancouver, BC, V7J 0A8",2,3,,729000,961
+334,"1527 Edgewater Lane, North Vancouver, BC, V7H 1T3",3,3,66 x 216,1899000,3869
+335,"314-333 E 1st Street, North Vancouver, BC, V7L 4W9",2,2,,928000,1083
+336,"206-108 W Esplanade, North Vancouver, BC, V7M 3M8",2,2,,649900,967
+337,"12-1073 Lynn Valley Road, North Vancouver, BC, V7J 1Z6",2,2,,812000,1039
+338,"305-3205 Mountain Highway, North Vancouver, BC, V7K 0A3",1,1,,552000,650
+339,"502-3629 Deercrest Drive, North Vancouver, BC, V7G 2S9",2,3,,929000,1357
+340,"406-3602 Aldercrest Drive, North Vancouver, BC, V7G 0A2",2,2,,645000,897
+341,"206 E 5 Street, North Vancouver, BC, V7L 1L7",3,3,,999000,1371
+342,"4158 Mt Seymour Parkway, North Vancouver, BC, V7G 1C5",2,4,60 x 120,1348000,1814
+343,"2480 Carnation Street, North Vancouver, BC, V7H 1H4",3,4,69 x 132,1588000,2382
+344,"300-160 W 3rd Street, North Vancouver, BC, V7M 0A9",1,1,,649000,673
+345,"105-308 W 2nd Street, North Vancouver, BC, V7M 1E1",2,2,,569000,860
+346,"701-175 Victory Ship Way, North Vancouver, BC, V7L 0G1",1,1,,818000,618
+347,"310-159 W 22nd Street, North Vancouver, BC, V7M 0B6",2,2,,885000,980
+348,"314-251 W 4th Street, North Vancouver, BC, V7M 1H8",1,2,,675000,882
+349,"109-235 W 4th Street, North Vancouver, BC, V7M 1H8",1,1,,479900,606
+350,"110-155 E 5th Street, North Vancouver, BC, V7L 1L3",1,1,,265000,654
+351,"426-255 W 1st Street, North Vancouver, BC, V7M 3G8",2,2,,809000,844
+352,"1105-125 E 14th Street, North Vancouver, BC, V7L 0E6",1,1,,674900,575
+353,"2963 Paisley Road, North Vancouver, BC, V7R 1C6",1,2,50 x 131,1399000,930
+354,"302-2601 Whiteley Court, North Vancouver, BC, V7J 2R7",2,2,,790000,990
+355,"610-719 W 3rd Street, North Vancouver, BC, V7M 0E7",2,2,,1075000,975
+356,"1150 Canyon Boulevard, North Vancouver, BC, V7R 2K4",4,5,33 x 120,1599900,3083
+357,"903-112 E 13th Street, North Vancouver, BC, V7L 0E4",2,2,,949000,913
+358,"5421 Molina Crescent, North Vancouver, BC, V7R 4R7",4,6,0 x 0,1998000,4576
+359,"304-3670 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,869900,1338
+360,"1301-1479 Hunter Street, North Vancouver, BC",2,2,,870900,916
+361,"1350 Sowden Street, North Vancouver, BC, V7P 1L8",4,4,62 x 100,1749000,2223
+362,"225-3629 Deercrest Drive, North Vancouver, BC, V7G 2S9",2,2,,628000,847
+363,"524-255 W 1st Street, North Vancouver, BC, V7M 3G8",2,3,,1399000,1259
+364,"508 East 10th Street, North Vancouver, BC, V7L 2E6",1,2,50 x 146,1395000,978
+365,"1777 Kilkenny Road, North Vancouver, BC, V7J 1T8",4,4,,2288000,3603
+366,"208-960 Lynn Valley Road, North Vancouver, BC, V7J 3V6",1,1,,389900,630
+367,"4377 Mountain Highway, North Vancouver, BC, V7K 2K3",3,5,58 x 230,1599000,2178
+368,"C8-332 Lonsdale Avenue, North Vancouver, BC, V7M 3M5",2,2,,799000,1091
+369,"1-3490 Mt Seymour Parkway, North Vancouver, BC, V7H 1G5",3,2,,949900,1284
+370,"321-255 W 1st Street, North Vancouver, BC, V7M 3G8",2,2,,945000,980
+371,"507-188 E Esplanade, North Vancouver, BC, V7L 4Y1",1,1,,675000,738
+372,"6-1205 Harold Road, North Vancouver, BC, V7K 1G5",4,2,,1598000,1608
+373,"306-317 Bewicke Avenue, North Vancouver, BC, V7M 3E9",1,1,,595000,559
+374,"2-2358 Western Avenue, North Vancouver, BC, V7M 2L3",4,3,,1295000,1718
+375,"314-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",1,1,,569900,602
+376,"319-221 E 3rd Street, North Vancouver, BC, V7L 0C1",2,2,,849000,940
+377,"103-345 Lonsdale Avenue, North Vancouver, BC, V7M 3M9",3,3,,749000,1418
+378,"314-780 Premier Street, North Vancouver, BC, V7J 2G8",1,1,,390000,742
+379,"407-2738 Library Lane, North Vancouver, BC, V7J 0B3",1,1,,546800,580
+380,"4160 Capilano Road, North Vancouver, BC, V7R 4J7",3,4,75 x 139,2149000,2916
+381,"111-216 E 6th Street, North Vancouver, BC, V7L 1P5",3,3,,1077000,1778
+382,"612-1500 Ostler Court, North Vancouver, BC, V7G 2S2",3,3,,899000,2439
+383,"208-2738 Library Lane, North Vancouver, BC, V7J 0B3",1,1,,499800,593
+384,"316 E 15th Street, North Vancouver, BC, V7L 2R8",2,5,38 x 147,1339000,2290
+385,"10-4055 Indian River Drive, North Vancouver, BC, V7G 2R7",3,4,,1015000,2474
+386,"206-725 Marine Drive, North Vancouver, BC, V7M 1H4",2,2,,650900,762
+387,"5-645 W 14th Street, North Vancouver, BC, V7M 1R3",1,2,,729000,825
+388,"1205-121 W 16th Street, North Vancouver, BC, V7M 3P4",2,2,,899000,969
+389,"543 W 21st Street, North Vancouver, BC, V7M 1Z8",5,6,,2238000,3748
+390,"1425 Paisley Road, North Vancouver, BC, V7R 1C4",6,6,49 x 120,2795000,4025
+391,"216-3220 Connaught Crescent, North Vancouver, BC, V7R 0A5",2,2,,2249000,1380
+392,"1906-1550 Fern Street, North Vancouver, BC, V7L 4X8",1,1,,568000,602
+393,"4576 Cove Cliff Road, North Vancouver, BC, V7G 1H6",3,4,50 x 120,1498800,2711
+394,"401-540 Lonsdale Avenue, North Vancouver, BC, V7M 2G7",2,2,,612900,907
+395,"225-332 Lonsdale Avenue, North Vancouver, BC, V7M 3M5",1,2,,599000,795
+396,"205-3680 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,849900,1357
+397,"307-135 E 17th Street, North Vancouver, BC, V7L 0C4",2,2,,925000,1003
+398,"328 E 21st Street, North Vancouver, BC, V7L 3B8",2,4,46 x 135,1427000,2102
+399,"54-650 Roche Point Drive, North Vancouver, BC, V7H 2Z5",3,2,,799000,1297
+400,"1017 Old Lillooet Road, North Vancouver, BC, V7J 3H6",2,2,,575000,1366
+401,"267-1100 E 29th Street, North Vancouver, BC, V7K 3E4",1,1,,499800,697
+402,"503-125 E 14th Street, North Vancouver, BC, V7N 0A5",1,1,,655000,635
+403,"1724 Arborlynn Drive, North Vancouver, BC, V7J 2V8",5,7,,1838000,3464
+404,"1261 E 15th Street, North Vancouver, BC, V7J 1K6",5,7,70 x 157,1689000,3656
+405,"201-122 E 17th Street, North Vancouver, BC, V7L 2V5",2,2,,499900,987
+406,"201-175 W 4th Street, North Vancouver, BC, V7M 1H6",1,1,,525000,700
+407,"107-155 E 3rd Street, North Vancouver, BC, V7L 1E3",1,2,,709900,830
+408,"1351 W 15th Street, North Vancouver, BC, V7P 1N1",2,3,62 x 100,1199000,1207
+409,"45-1910 Cedar Village Crescent, North Vancouver, BC, V7J 3M5",2,4,,789000,1764
+410,"214-3205 Mountain Highway, North Vancouver, BC, V7K 0A3",2,2,,749900,864
+411,"410-3606 Aldercrest Drive, North Vancouver, BC, V7G 0A3",1,1,,499900,772
+412,"1415 Harold Road, North Vancouver, BC, V7J 1W9",5,5,33 x 132,1998800,2966
+413,"4054 Norwood Avenue, North Vancouver, BC, V7N 3R3",3,4,62 x 141,1728000,2923
+414,"3611 Baird Road, North Vancouver, BC, V7K 2H1",6,6,133 x 43,2399800,4075
+415,"405-2135 Heritage Park Lane, North Vancouver, BC, V7H 0B6",3,3,,963000,1339
+416,"303-408 Lonsdale Avenue, North Vancouver, BC, V7M 2G5",2,2,,799000,989
+417,"415 Monteray Avenue, North Vancouver, BC, V7N 3E9",3,3,,2099000,2199
+418,"205-3680 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,849900,1357
+419,"904-1327 E Keith Road, North Vancouver, BC, V7J 3T5",2,2,,825000,1153
+420,"4724 Pheasant Place, North Vancouver, BC, V7R 4G3",6,7,60 x 186,2788000,4630
+421,"17-3596 Salal Drive, North Vancouver, BC, V7G 0A9",3,3,,998000,1615
+422,"410-3680 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,998000,1417
+423,"3968 St. Pauls Avenue, North Vancouver, BC, V7N 1T5",7,7,57 x 159,3880000,5711
+424,"838 Cumberland Crescent, North Vancouver, BC, V7P 1Y4",3,3,,1998000,2578
+425,"1084 Lodge Road, North Vancouver, BC, V7R 1W8",4,5,42 x 130,3498000,3487
+426,"411 Montroyal Boulevard, North Vancouver, BC, V7N 3E2",3,4,,1880000,2665
+427,"873 Old Lillooet Road, North Vancouver, BC, V7J 2H6",2,5,,849900,1870
+428,"206-150 W 22nd Street, North Vancouver, BC, V7M 3M4",1,2,,649000,816
+429,"316-555 W 28th Street, North Vancouver, BC, V7N 2J7",2,3,,629000,1136
+430,"803-2020 Fullerton Avenue, North Vancouver, BC, V7P 3G3",2,2,,538000,965
+431,"29-650 Roche Point Drive, North Vancouver, BC, V7H 2Z5",3,3,,829000,1471
+432,"3-2425 Edgemont Boulevard, North Vancouver, BC, V7P 2L2",2,3,,1199000,2435
+433,"1471 Frederick Road, North Vancouver, BC, V7K 1J6",2,3,,1328000,1515
+434,"5595 Molina Road, North Vancouver, BC, V7R 4P3",5,5,60 x 150,2258000,4323
+435,"1042 Adderley Street, North Vancouver, BC, V7L 1T3",6,7,50 x 140,2598999,4676
+436,"101-120 W 17th Street, North Vancouver, BC, V7M 1V4",1,1,,359000,600
+437,"203-3980 Inlet Crescent, North Vancouver, BC, V7G 2P9",3,4,,1068000,2430
+438,"296 Newdale Court, North Vancouver, BC, V7N 3H1",3,5,66 x 190,2395000,3645
+439,"4517 Prospect Road, North Vancouver, BC, V7N 3L8",4,5,87 x 0,2280000,3838
+440,"205-3680 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,849900,1357
+441,"312-1061 Marine Drive, North Vancouver, BC, V7L 2T1",2,2,,659000,873
+442,"310-221 E 3rd Street, North Vancouver, BC, V7L 1E6",1,1,,588888,670
+443,"20-550 Browning Place, North Vancouver, BC, V7H 3A9",2,2,,918800,1253
+444,"617 E 22nd Street, North Vancouver, BC, V7L 3E1",0,0,66 x 135,1849000,2600
+445,"4146 Beaufort Place, North Vancouver, BC, V7G 2N5",4,4,59 x 122,1998000,3274
+446,"1202-1550 Fern Street, North Vancouver, BC, V7J 0A9",2,2,,725000,841
+447,"206-1295 Conifer Street, North Vancouver, BC, V7J 0B4",2,2,,998000,1071
+448,"32-650 Roche Point Drive, North Vancouver, BC, V7H 2S5",3,2,,779000,1263
+449,"504-135 E 17th Street, North Vancouver, BC, V7L 0C4",1,1,,539000,516
+450,"307 St. Andrews Avenue, North Vancouver, BC, V7L 4P5",2,3,,900000,1518
+451,"111-175 E 10th Street, North Vancouver, BC, V7L 4W1",2,2,,745000,1000
+452,"107-1150 E 29th Street, North Vancouver, BC, V7K 3E2",1,2,,678000,809
+453,"304-1702 Chesterfield Avenue, North Vancouver, BC, V7M 2P1",2,2,,599000,917
+454,"665 E 4th Street, North Vancouver, BC, V7L 1J9",4,5,,1975000,2400
+455,"304-2004 Fullerton Avenue, North Vancouver, BC, V7P 3G8",1,2,,499999,864
+456,"902-683 Victoria Park, North Vancouver, BC, V7M 0A2",2,1,,628000,622
+457,"306-3275 Mountain Highway, North Vancouver, BC, V7K 2H4",1,2,,517000,851
+458,"1295 W Keith Road, North Vancouver, BC, V7P 1Y9",5,7,100 x 319,2990000,5241
+459,"106-2710 Lonsdale Avenue, North Vancouver, BC, V7N 3J1",1,1,,398800,844
+460,"2504-680 Seylynn Crescent, North Vancouver, BC, V7J 0B5",2,2,,699000,766
+461,"PH6-1288 Chesterfield Avenue, North Vancouver, BC, V7M 0B1",2,1,,689000,750
+462,"904-1327 E Keith Road, North Vancouver, BC, V7J 3T5",2,2,,825000,1153
+463,"205-3680 Banff Court, North Vancouver, BC, V7H 2Y7",2,2,,849900,1357
+464,"522 E 10th Street, North Vancouver, BC, V7L 2E6",7,6,50 x 147,2588000,4869
+465,"309-310 E 3rd Street, North Vancouver, BC, V7L 1E9",1,2,,499900,926
+466,"404-255 W 1st Street, North Vancouver, BC, V7M 3G8",2,2,,990000,960
+467,"315-3080 Lonsdale Avenue, North Vancouver, BC, V7N 3J5",2,2,,549800,1004
+468,"357 W 24 Street, North Vancouver, BC, V7M 2C7",2,5,46 x 120,1599000,2021
+469,"10-3490 Mt Seymour Parkway, North Vancouver, BC, V7H 1G5",3,2,,949900,1285
+470,"413-530 Raven Woods Drive, North Vancouver, BC, V7G 2T5",1,1,,598000,761
+471,"3450 Institute Road, North Vancouver, BC, V7K 2K9",2,4,75 x 93,1325000,1578
+472,"3200 Bewicke Avenue, North Vancouver, BC, V7N 4B8",2,4,114 x 115,1980000,2138
+473,"108-3600 Windcrest Drive, North Vancouver, BC, V7G 2S5",3,2,,759000,1327
+474,"408-733 W 3rd Street, North Vancouver, BC, V7M 0C8",2,2,,848000,960
+475,"205-855 W 16th Street, North Vancouver, BC, V7P 1R2",2,2,,599800,1001
+476,"404-131 W 3rd Street, North Vancouver, BC, V7M 1E7",1,2,,620000,776
+477,"525-723 W 3rd Street, North Vancouver, BC, V7M 0E4",2,3,,1499000,1407
+478,"901-1320 Chesterfield Avenue, North Vancouver, BC, V7M 0A6",2,2,,879000,1007
+479,"410-733 W 14 Street, North Vancouver, BC, V7M 0C6",2,2,,829000,1426
+480,"302-128 W 21st Street, North Vancouver, BC, V7M 1Y9",2,2,,750000,938
+481,"706-112 E 13th Street, North Vancouver, BC, V7L 0E4",2,2,,1259000,1060
+482,"307-3600 Windcrest Drive, North Vancouver, BC, V7G 2S5",1,1,,449900,717
+483,"204-108 W Esplanade, North Vancouver, BC, V7M 3M8",2,2,,648500,958
