@@ -115,7 +115,7 @@ $ Jupyter Notebook
 
 [Requests-shield]: https://img.shields.io/badge/Requests-python_framework-red.svg?logo=Python
 [BeautifulSoup-shield]: https://img.shields.io/badge/Beautiful_Soup-python_framework-red.svg?logo=Python
-[bokeh-shield]: https://img.shields.io/badge/Time-python_framework-red.svg?logo=Python
+[bokeh-shield]: https://img.shields.io/badge/Bokeh-python_framework-red.svg?logo=Python
 [math-shield]: https://img.shields.io/badge/Math-python_framework-red.svg?logo=Python
 [Jupyter-shield]:https://img.shields.io/badge/Jupyter_Notebook-code%20editor-lightgrey.svg?logo=jupyter
 
